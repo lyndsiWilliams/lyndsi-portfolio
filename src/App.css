@@ -42,3 +42,6 @@ code:before,
 code:after {
   content: '\`';
 }
+.nav-link {
+  padding: .5rem 5rem;
+}
